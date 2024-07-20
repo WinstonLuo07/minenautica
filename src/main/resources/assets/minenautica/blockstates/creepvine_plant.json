@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "mature=false": {
+      "model": "minenautica:block/creepvine_plant"
+    },
+    "mature=true": {
+      "model": "minenautica:block/creepvine_plant_mature"
+    }
+  }
+}
